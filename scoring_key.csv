@@ -1,0 +1,50 @@
+q,letter,answer,score,section
+1,A,Less secure / Not applicable,0,Risk Capacity
+1,B,Relatively secure,1,Risk Capacity
+1,C,Secure,3,Risk Capacity
+1,D,Doesn't matter; can easily find a good new job/career,3,Risk Capacity
+1,E,Doesn't matter; already have enough wealth,4,Risk Capacity
+2,A,Less than 5 years / retired / not applicable,0,Risk Capacity
+2,B,About 5–15 years,2,Risk Capacity
+2,C,About 15–25 years,4,Risk Capacity
+2,D,More than 25 years,6,Risk Capacity
+3,A,Less than 3 months,0,Risk Capacity
+3,B,3–6 months,1,Risk Capacity
+3,C,6 months to 1 year,2,Risk Capacity
+3,D,More than 1 year,3,Risk Capacity
+4,A,Only myself,3,Risk Capacity
+4,B,Two people including myself,2,Risk Capacity
+4,C,3–4 people other than myself,1,Risk Capacity
+4,D,More than 4 people other than myself,0,Risk Capacity
+5,A,"Under ₹2,00,000",1,Risk Capacity
+5,B,"Between ₹2,00,000 and ₹5,00,000",2,Risk Capacity
+5,C,"Between ₹5,00,000 and ₹10,00,000",3,Risk Capacity
+5,D,"Over ₹10,00,000",4,Risk Capacity
+6,A,Preserving wealth,1,Risk Capacity
+6,B,Generating regular income to meet current requirements,2,Risk Capacity
+6,C,Balance current income and long-term growth,3,Risk Capacity
+6,D,Long-term growth,4,Risk Capacity
+7,A,Experienced investor; follows markets and understands risks,3,Risk Tolerance
+7,B,Relies on broker or financial planner to stay updated,2,Risk Tolerance
+7,C,"Little awareness, but wants to build knowledge",1,Risk Tolerance
+8,A,"Savings account, fixed deposit or money market funds",0,Risk Tolerance
+8,B,Bonds or debt mutual funds,1,Risk Tolerance
+8,C,Equity mutual funds,2,Risk Tolerance
+8,D,Real estate funds / commodity-linked products,3,Risk Tolerance
+8,E,Equity shares / structured products,4,Risk Tolerance
+8,F,Private equity / venture capital funds,5,Risk Tolerance
+9,A,Do not want to reduce it; risk can lead to higher long-term returns,3,Risk Tolerance
+9,B,Diversified portfolio across asset classes to minimise risk,2,Risk Tolerance
+9,C,Mainly capital-stable investments,1,Risk Tolerance
+10,A,Sell all investments,1,Risk Tolerance
+10,B,Sell some and transfer funds to more secure investments,2,Risk Tolerance
+10,C,Do nothing; leave the investment in place,3,Risk Tolerance
+10,D,Buy more at a lower cost basis,4,Risk Tolerance
+11,A,Very comfortable with short-term fluctuations,3,Risk Tolerance
+11,B,"Somewhat comfortable, assuming volatility has a limit",2,Risk Tolerance
+11,C,Little uncomfortable seeing investments fluctuate,1,Risk Tolerance
+11,D,Prefer investments with minimal volatility,0,Risk Tolerance
+12,A,Willing to take risks for higher return,3,Risk Tolerance
+12,B,Can take calculated risks,2,Risk Tolerance
+12,C,Low risk-taking capability,1,Risk Tolerance
+12,D,Extremely averse to risk,0,Risk Tolerance

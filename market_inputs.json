@@ -1,0 +1,123 @@
+{
+  "universe": [
+    "Power Grid",
+    "TCS",
+    "Waaree",
+    "Lupin",
+    "ITC",
+    "INDRAMEDCO",
+    "ONGC",
+    "Axis Bank"
+  ],
+  "cagr": {
+    "Power Grid": {
+      "end": 264.0,
+      "start": 63.0,
+      "years": 19
+    },
+    "TCS": {
+      "end": 2496.0,
+      "start": 273.0,
+      "years": 20
+    },
+    "Waaree": {
+      "end": 27245.0,
+      "start": 6860.0,
+      "years": 3
+    },
+    "Lupin": {
+      "end": 2009.0,
+      "start": 102.0,
+      "years": 20
+    },
+    "ITC": {
+      "end": 265.0,
+      "start": 62.0,
+      "years": 20
+    },
+    "INDRAMEDCO": {
+      "end": 305.0,
+      "start": 34.5,
+      "years": 20
+    },
+    "ONGC": {
+      "end": 225.0,
+      "start": 124.0,
+      "years": 20
+    },
+    "Axis Bank": {
+      "end": 1214.0,
+      "start": 78.0,
+      "years": 20
+    }
+  },
+  "classification": {
+    "Power Grid": {
+      "dividend_per_share": 9.0,
+      "price_for_yield": 265.0,
+      "ebitda_end": 398191.0,
+      "ebitda_start": 369920.0,
+      "ebitda_years": 5,
+      "beta_override": null
+    },
+    "TCS": {
+      "dividend_per_share": 64.0,
+      "price_for_yield": 2496.0,
+      "ebitda_end": 72398.0,
+      "ebitda_start": 53570.0,
+      "ebitda_years": 5,
+      "beta_override": null
+    },
+    "Waaree": {
+      "dividend_per_share": 0.0,
+      "price_for_yield": null,
+      "ebitda_end": 5918.0,
+      "ebitda_start": 1109.0,
+      "ebitda_years": 5,
+      "beta_override": 0.93
+    },
+    "Lupin": {
+      "dividend_per_share": 12.0,
+      "price_for_yield": 2009.0,
+      "ebitda_end": 8444.0,
+      "ebitda_start": 2143.0,
+      "ebitda_years": 5,
+      "beta_override": null
+    },
+    "ITC": {
+      "dividend_per_share": 14.35,
+      "price_for_yield": 265.0,
+      "ebitda_end": 27534.0,
+      "ebitda_start": 20598.0,
+      "ebitda_years": 5,
+      "beta_override": null
+    },
+    "INDRAMEDCO": {
+      "dividend_per_share": 4.5,
+      "price_for_yield": 305.0,
+      "ebitda_end": 2674.0,
+      "ebitda_start": 1200.0,
+      "ebitda_years": 5,
+      "beta_override": null
+    },
+    "ONGC": {
+      "dividend_per_share": 13.5,
+      "price_for_yield": 225.0,
+      "ebitda_end": 112603.0,
+      "ebitda_start": 80325.0,
+      "ebitda_years": 5,
+      "beta_override": null
+    },
+    "Axis Bank": {
+      "dividend_per_share": 1.0,
+      "price_for_yield": 1214.0,
+      "ebitda_end": 34862.0,
+      "ebitda_start": 20632.0,
+      "ebitda_years": 5,
+      "beta_override": null
+    }
+  },
+  "rf": 0.0739,
+  "rm_jensen": 0.135,
+  "trading_days": 252
+}

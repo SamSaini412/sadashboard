@@ -1,0 +1,38 @@
+{
+  "Very Conservative": {
+    "categories": [
+      "Defensive Equity",
+      "Dividend Yield"
+    ],
+    "max_sd": 0.17
+  },
+  "Conservative": {
+    "categories": [
+      "Defensive Equity",
+      "Dividend Yield"
+    ],
+    "max_sd": 0.185
+  },
+  "Moderate": {
+    "categories": [
+      "Dividend Yield",
+      "Flexi Cap",
+      "Growth Equity"
+    ],
+    "max_sd": 0.2
+  },
+  "Aggressive": {
+    "categories": [
+      "Growth Equity",
+      "Flexi Cap"
+    ],
+    "max_sd": 0.215
+  },
+  "Very Aggressive": {
+    "categories": [
+      "Growth Equity",
+      "Flexi Cap"
+    ],
+    "max_sd": 0.23
+  }
+}

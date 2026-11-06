@@ -1,0 +1,443 @@
+{
+  "TCS": {
+    "method": "DCF",
+    "as_of": "17/10/2026",
+    "price": 2465,
+    "shares": 361.81,
+    "debt": 2399.3599999999997,
+    "cash": 7247.030000000001,
+    "years": [
+      2026,
+      2027,
+      2028,
+      2029,
+      2030
+    ],
+    "revenue0": 267021,
+    "growth": [
+      0.05,
+      0.05,
+      0.05,
+      0.05
+    ],
+    "cfo_margin": 0.2572381947,
+    "capex0": 5340.42,
+    "capex_pct": [
+      0.02,
+      0.02,
+      0.02,
+      0.02
+    ],
+    "interest_ratio": 0.0033742664,
+    "tax": [
+      0.25,
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "terminal_growth": 0.04,
+    "wacc": {
+      "debt": 12021,
+      "equity_mv": 891859,
+      "rf": 0.0739,
+      "rm": 0.103,
+      "kd_pretax": 0.07495216704101157,
+      "interest0": 901,
+      "tax": 0.25,
+      "beta_mode": "peers",
+      "beta_fixed": null
+    },
+    "workbook": {
+      "net_debt_sign": 1,
+      "tv_uses_growth": true,
+      "final_fcff_in_pv": true
+    }
+  },
+  "INDRAMEDCO": {
+    "method": "DCF",
+    "as_of": "17/10/2026",
+    "price": 314,
+    "shares": 9.1673,
+    "debt": 36.86,
+    "cash": 263.3,
+    "years": [
+      2026,
+      2027,
+      2028,
+      2029,
+      2030
+    ],
+    "revenue0": 1482.51,
+    "growth": [
+      0.1,
+      0.1,
+      0.1,
+      0.1
+    ],
+    "cfo_margin": 0.1129435889,
+    "capex0": 60.78291,
+    "capex_pct": [
+      0.041,
+      0.041,
+      0.041,
+      0.041
+    ],
+    "interest_ratio": 0.0019763779,
+    "tax": [
+      0.25,
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "terminal_growth": 0.04,
+    "wacc": {
+      "debt": 36.86,
+      "equity_mv": 2934,
+      "rf": 0.0739,
+      "rm": 0.103,
+      "kd_pretax": 0.07948996201844818,
+      "interest0": 2.93,
+      "tax": 0.25,
+      "beta_mode": "peers",
+      "beta_fixed": null
+    },
+    "workbook": {
+      "net_debt_sign": 1,
+      "tv_uses_growth": true,
+      "final_fcff_in_pv": true
+    }
+  },
+  "Lupin": {
+    "method": "DCF",
+    "as_of": "27/10/2026",
+    "price": 1954,
+    "shares": 45.73,
+    "debt": 6616.18,
+    "cash": 7947.9800000000005,
+    "years": [
+      2026,
+      2027,
+      2028,
+      2029,
+      2030,
+      2031,
+      2032,
+      2033,
+      2034
+    ],
+    "revenue0": 27958.03,
+    "growth": [
+      0.08,
+      0.08,
+      0.08,
+      0.08,
+      0.05,
+      0.05,
+      0.05,
+      0.05
+    ],
+    "cfo_margin": 0.2558027157,
+    "capex0": 1807.15,
+    "capex_pct": [
+      0.065,
+      0.065,
+      0.065,
+      0.065,
+      0.035,
+      0.035,
+      0.035,
+      0.035
+    ],
+    "interest_ratio": 0.0234158129,
+    "tax": [
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28
+    ],
+    "terminal_growth": 0.035,
+    "wacc": {
+      "debt": 6616.18,
+      "equity_mv": 89373,
+      "rf": 0.0739,
+      "rm": 0.103,
+      "kd_pretax": 0.09894833574660908,
+      "interest0": 654.6600000000001,
+      "tax": 0.28,
+      "beta_mode": "peers",
+      "beta_fixed": null
+    },
+    "workbook": {
+      "net_debt_sign": -1,
+      "tv_uses_growth": true,
+      "final_fcff_in_pv": true
+    }
+  },
+  "Waaree": {
+    "method": "DCF",
+    "as_of": "27/10/2026",
+    "price": 2274,
+    "shares": 28.7651335,
+    "debt": 2399.3599999999997,
+    "cash": 7247.030000000001,
+    "years": [
+      2026,
+      2027,
+      2028,
+      2029,
+      2030,
+      2031,
+      2032,
+      2033,
+      2034
+    ],
+    "revenue0": 26536.77,
+    "growth": [
+      0.18,
+      0.18,
+      0.18,
+      0.18,
+      0.08,
+      0.08,
+      0.08,
+      0.08
+    ],
+    "cfo_margin": 0.1563257322,
+    "capex0": 4835.4800000000005,
+    "capex_pct": [
+      0.11,
+      0.11,
+      0.11,
+      0.11,
+      0.05,
+      0.05,
+      0.05,
+      0.05
+    ],
+    "interest_ratio": 0.0063504338,
+    "tax": [
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28
+    ],
+    "terminal_growth": 0.04,
+    "wacc": {
+      "debt": 3691.8900000000003,
+      "equity_mv": 64515,
+      "rf": 0.0739,
+      "rm": 0.103,
+      "kd_pretax": 0.04564599703674811,
+      "interest0": 168.52,
+      "tax": 0.28,
+      "beta_mode": "peers",
+      "beta_fixed": null
+    },
+    "workbook": {
+      "net_debt_sign": 1,
+      "tv_uses_growth": true,
+      "final_fcff_in_pv": true
+    }
+  },
+  "ITC": {
+    "method": "DCF",
+    "as_of": "27/10/2026",
+    "price": 260,
+    "shares": 1253.19,
+    "debt": 600,
+    "cash": 7247.030000000001,
+    "years": [
+      2026,
+      2027,
+      2028,
+      2029,
+      2030
+    ],
+    "revenue0": 78868.4,
+    "growth": [
+      0.05,
+      0.05,
+      0.05,
+      0.05
+    ],
+    "cfo_margin": 0.2448988442,
+    "capex0": 2129.4468,
+    "capex_pct": [
+      0.027,
+      0.027,
+      0.027,
+      0.027
+    ],
+    "interest_ratio": 0.0010359028,
+    "tax": [
+      0.28,
+      0.28,
+      0.28,
+      0.28,
+      0.28
+    ],
+    "terminal_growth": 0.04,
+    "wacc": {
+      "debt": 600,
+      "equity_mv": 325955,
+      "rf": 0.0739,
+      "rm": 0.103,
+      "kd_pretax": 0.13616666666666666,
+      "interest0": 81.7,
+      "tax": 0.28,
+      "beta_mode": "peers",
+      "beta_fixed": null
+    },
+    "workbook": {
+      "net_debt_sign": 1,
+      "tv_uses_growth": true,
+      "final_fcff_in_pv": true
+    }
+  },
+  "Power Grid": {
+    "method": "DCF",
+    "as_of": "17/10/2026",
+    "price": 252,
+    "shares": 930,
+    "debt": 193766.63999999998,
+    "cash": 9138.060000000001,
+    "years": [
+      "2026A",
+      "2027P",
+      "2028P",
+      "2029P",
+      "2030P"
+    ],
+    "revenue0": 46732.87,
+    "growth": [
+      0.02,
+      0.02,
+      0.02,
+      0.02
+    ],
+    "cfo_margin": 0.684336314,
+    "capex0": 35891,
+    "capex_pct": [
+      0.3242,
+      0.3242,
+      0.3242,
+      0.3242
+    ],
+    "interest_ratio": 0.2019569952,
+    "tax": [
+      0.25,
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "terminal_growth": 0.015,
+    "wacc": {
+      "debt": 9138.060000000001,
+      "equity_mv": 234282,
+      "rf": 0.0739,
+      "rm": 0.103,
+      "kd_pretax": 0.047160130350611444,
+      "interest0": 9438.03,
+      "tax": 0.25,
+      "beta_mode": "peers",
+      "beta_fixed": null
+    },
+    "workbook": {
+      "net_debt_sign": -1,
+      "tv_uses_growth": false,
+      "final_fcff_in_pv": true
+    }
+  },
+  "ONGC": {
+    "method": "DCF",
+    "as_of": "01/11/2026",
+    "price": 225.39,
+    "shares": 1258.1,
+    "debt": 174316.49099999998,
+    "cash": 36660.07,
+    "years": [
+      "2026A",
+      "2027P",
+      "2028P",
+      "2029P",
+      "2030P"
+    ],
+    "revenue0": 608662.753,
+    "growth": [
+      0.02,
+      0.02,
+      0.02,
+      0.02
+    ],
+    "cfo_margin": 0.1798505272,
+    "capex0": 64999,
+    "capex_pct": [
+      0.1067898433,
+      0.1067898433,
+      0.1067898433,
+      0.1067898433
+    ],
+    "interest_ratio": 0.0141135661,
+    "tax": [
+      0.25,
+      0.25,
+      0.25,
+      0.25,
+      0.25
+    ],
+    "terminal_growth": 0.02,
+    "wacc": {
+      "debt": 174316.49099999998,
+      "equity_mv": 283559,
+      "rf": 0.0739,
+      "rm": 0.135,
+      "kd_pretax": 0.049280489474745115,
+      "interest0": 8590.402,
+      "tax": 0.25,
+      "beta_mode": "fixed",
+      "beta_fixed": 0.07
+    },
+    "workbook": {
+      "net_debt_sign": -1,
+      "tv_uses_growth": true,
+      "final_fcff_in_pv": false
+    }
+  },
+  "Axis Bank": {
+    "method": "RI",
+    "as_of": "01/11/2026",
+    "price": 1214,
+    "shares": 311.08,
+    "opening_bv": 187235.49,
+    "pat0": 26493.82,
+    "pat_growth": 0.15,
+    "payout": 0.011759172154280339,
+    "terminal_growth": 0.06,
+    "years": [
+      2026,
+      2027,
+      2028,
+      2029,
+      2030
+    ],
+    "wacc": {
+      "rf": 0.0739,
+      "rm": 0.103,
+      "beta_mode": "peers",
+      "beta_fixed": null
+    }
+  }
+}
